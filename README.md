@@ -28,7 +28,8 @@ We encourage you to contact us if you are willing to add a new language or work 
 * Create a free GitHub account [here](https://github.com/signup/free) (if you don't have one already).
 * Set up git on your computer. There are good tutorials in the GitHub [help pages](http://help.github.com/set-up-git-redirect).
 * [Installation](https://github.com/SimpleServer/SimpleServer/wiki/Installation)
-* Clone the [localization repository](https://github.com/SimpleServer/Localization) into your SimpleServer folder. To do that simply navigate to said folder using [cd](http://en.wikipedia.org/wiki/Cd_(command\)) and then execute <br>
+* Clone the [localization repository](https://github.com/SimpleServer/Localization) into your SimpleServer folder. To do that simply navigate to said folder using [cd](http://en.wikipedia.org/wiki/Cd_(command\)) and then execute
+
 ```
 git clone git@github.com:SimpleServer/Localization.git
 ```
@@ -42,6 +43,7 @@ git clone git@github.com:SimpleServer/Localization.git
 The language files contain a [JSON](http://www.json.org/) formatted dictionary where the keys are the original English messages and the value is the translated version.
 
 Each line looks like this:
+
 ```
 "Original English message" : "Translated message",
 ```
@@ -59,6 +61,7 @@ The translations file can be reloaded at any time by using the `reload` command.
 
 ### Submitting
 The translations are submitted via [git](http://en.wikipedia.org/wiki/Git_(software\)). Navigate your git console into the *translations* folder (using [cd](http://en.wikipedia.org/wiki/Cd_(command\)) again). Then execute the following commands:
+
 ```
 git pull origin master
 git add .
