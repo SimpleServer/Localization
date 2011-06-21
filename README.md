@@ -27,7 +27,7 @@ We encourage you to contact us if you are willing to add a new language or work 
 ### Setting up your workspace
 * Create a free GitHub account [here](https://github.com/signup/free) (if you don't have one already).
 * Set up git on your computer. There are good tutorials in the GitHub [help pages](http://help.github.com/set-up-git-redirect).
-* [[Install SimpleServer|Installation]]
+* [Installation](https://github.com/SimpleServer/SimpleServer/wiki/Installation)
 * Clone the [localization repository](https://github.com/SimpleServer/Localization) into your SimpleServer folder. To do that simply navigate to said folder using [cd](http://en.wikipedia.org/wiki/Cd_(command\)) and then execute <br>
 ```
 git clone git@github.com:SimpleServer/Localization.git
