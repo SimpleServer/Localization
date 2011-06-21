@@ -6,6 +6,7 @@
   "%s's" : "%s's",
   "(case-insensitive, name prefix works for online players)" : "(case-insensitive, name prefix works for online players)",
   "Add player to server access list" : "Add player to server access list",
+  "Agree a visit request" : "Agree a visit request",
   "Aliases:" : "Aliases:",
   "Allow the named player to use normal chat again" : "Allow the named player to use normal chat again",
   "Amount must be a number!" : "Amount must be a number!",
