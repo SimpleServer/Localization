@@ -1,7 +1,7 @@
-{
+﻿{
   "%d chests have been unlocked!" : "%d kistor har låsts upp!",
   "%s Latitude: %s %d %s Longitude: %s %d %s Altitude: %s %d %s Dimension: %s %s" : "%s Latitud: %s %d %s Longitud: %s %d %s Höjd: %s %d %s Dimension: %s %s",
-  "%s says" : "%s says",
+  "%s says" : "%s sa",
   "%s would like to visit you. If you agree," : "%s skulle vilja besöka dig. Om du accepterar,",
   "%s's" : "%ss",
   "(case-insensitive, name prefix works for online players)" : "(skiftlägesokänslig, namn-prefix fungerar för online spelare)",
