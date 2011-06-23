@@ -166,6 +166,8 @@
   "You can not visit yourself!" : "You can not visit yourself!",
   "You can only create areas on Earth!" : "You can only create areas on Earth!",
   "You can't use chests here" : "You can't use chests here",
+  "You cannot ban players that are in your group or higher!" : "You cannot ban players that are in your group or higher!",
+  "You cannot kick players that are in your group or higher!" : "You cannot kick players that are in your group or higher!",
   "You cannot promote to your group or higher!" : "You cannot promote to your group or higher!",
   "You cannot set the group of this user!" : "You cannot set the group of this user!",
   "You currently have no personal area which can be removed!" : "You currently have no personal area which can be removed!",

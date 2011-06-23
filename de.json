@@ -1,4 +1,4 @@
-{
+﻿{
   "%d chests have been unlocked!" : "%d Truhen wurden aufgeschlossen!",
   "%s Latitude: %s %d %s Longitude: %s %d %s Altitude: %s %d %s Dimension: %s %s" : "%s Breitengrad: %s %d %s Längengrad: %s %d %s Höhe: %s %d %s Dimension: %s %s",
   "%s says" : "%s sagt",
@@ -166,6 +166,8 @@
   "You can not visit yourself!" : "Du kannst dich nicht selbst besuchen!",
   "You can only create areas on Earth!" : "Du kannst Bereiche nur auf der Erde anlegen!",
   "You can't use chests here" : "Du kannst hier keine Truhen benützen",
+  "You cannot ban players that are in your group or higher!" : "You cannot ban players that are in your group or higher!",
+  "You cannot kick players that are in your group or higher!" : "You cannot kick players that are in your group or higher!",
   "You cannot promote to your group or higher!" : "Du kannst niemanden zu deiner oder einer höheren Gruppe befördern!",
   "You cannot set the group of this user!" : "Du kannst die Gruppe dieses Spielers nicht ändern!",
   "You currently have no personal area which can be removed!" : "Du hast keinen persönlichen Bereich der gelöscht werden könnte!",

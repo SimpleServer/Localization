@@ -165,6 +165,8 @@
   "You can not visit yourself!" : "Du kan inte besöka sig själv!",
   "You can only create areas on Earth!" : "Du kan bara skapa områden på jorden!",
   "You can't use chests here" : "Du kan inte använda kistor här",
+  "You cannot ban players that are in your group or higher!" : "Du kan inte förbjuda andra spelare som är i ditt grupp eller ett högre grupp att komma in på servern!",
+  "You cannot kick players that are in your group or higher!" : "Du kan inte logga ut andra spelare som är i ditt grupp eller ett högre grupp!",
   "You cannot promote to your group or higher!" : "Du kan inte befordra till din grupp eller högre!",
   "You cannot set the group of this user!" : "Du kan inte ändra spelarens grupp!",
   "You currently have no personal area which can be removed!" : "Just nu har du inte ett område som kan tas bort!",
