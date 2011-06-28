@@ -144,6 +144,7 @@
   "Store configuration to disk and force a map save" : "Store configuration to disk and force a map save",
   "Teleport the first player to the second" : "Teleport the first player to the second",
   "Teleport the named player to you" : "Teleport the named player to you",
+  "Teleport to spawn" : "Teleport to spawn",
   "Teleport to the named player" : "Teleport to the named player",
   "Teleport to the player if he agrees with ok" : "Teleport to the player if he agrees with ok",
   "Teleported %s to %s!" : "Teleported %s to %s!",

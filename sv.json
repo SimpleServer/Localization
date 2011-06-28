@@ -144,6 +144,7 @@
   "Store configuration to disk and force a map save" : "Spara konfigurationsfiler och kartan till hårddisken",
   "Teleport the first player to the second" : "Teleportera den första spelare till den andra",
   "Teleport the named player to you" : "Teleportera en spelare till dig",
+  "Teleport to spawn" : "Teleportera dig till spawnet",
   "Teleport to the named player" : "Teleportera dig till en spelare",
   "Teleport to the player if he agrees with ok" : "Teleportera till en spelare om han accepterar",
   "Teleported %s to %s!" : "Teleporterade %s till %s!",

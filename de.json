@@ -144,6 +144,7 @@
   "Store configuration to disk and force a map save" : "Konfiguration auf Festplatte abspeichern und eine Kartenspeicherung erzwingen",
   "Teleport the first player to the second" : "Den erstgenannten Spieler zum zweiten teleportieren",
   "Teleport the named player to you" : "Den angegebenen Spieler zu dir teleportieren",
+  "Teleport to spawn" : "Teleport to spawn",
   "Teleport to the named player" : "Dich zum angegebenen Spieler teleportieren",
   "Teleport to the player if he agrees with ok" : "Zum angegebenen Spieler teleportieren wenn er mit ok akzeptiert",
   "Teleported %s to %s!" : "%s zu %s teleportiert!",
