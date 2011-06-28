@@ -1,4 +1,4 @@
-﻿{
+{
   "%d chests have been unlocked!" : "%d kistor har låsts upp!",
   "%s Latitude: %s %d %s Longitude: %s %d %s Altitude: %s %d %s Dimension: %s %s" : "%s Latitud: %s %d %s Longitud: %s %d %s Höjd: %s %d %s Dimension: %s %s",
   "%s name: add waypoint" : "%s namn: lägg till vägpunkten",
@@ -165,7 +165,7 @@
   "Unbanned %s!" : "%s får logga in på servern!",
   "Unlocks locked chests" : "Låsa upp låsta kistor",
   "Usage:" : "Användning:",
-  "Use and manage warp points" : "Använda och hantera vägpunkterna",
+  "Use and manage waypoints" : "Använda och hantera vägpunkterna",
   "Waypoint added" : "Vägpunkt har lagts till",
   "Waypoint removed" : "Vägpunkt har tagits bort",
   "Waypoints" : "Vägpunkter",
