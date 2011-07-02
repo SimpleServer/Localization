@@ -124,7 +124,7 @@
   "Player %s was unwhitelisted!": "Spieler %s wurde von der Whitelist entfernt!", 
   "Player %s was whitelisted!": "Spieler %s wurde der Whitelist hinzugefügt!", 
   "Player %s's group was set to %s!": "Die Gruppe von Spieler %s wurde auf %s gesetzt!", 
-  "Player already in server!": "Player bereits im Server!", 
+  "Player already in server!": "Spieler bereits im Server!", 
   "Player not online (%s)": "Spieler nicht online (%s)", 
   "Players %s and %s are in different dimensions.": "Spieler %s und %s halten sich in verschiedenen Dimensionen auf.", 
   "Please reconnect to the server within %s seconds to complete the CustAuth process.": "Bitte verbinde dich innerhalb von %s Sekunden erneut mit dem Server um den CustAuth-Prozess abzuschliessen.", 
