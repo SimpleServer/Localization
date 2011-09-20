@@ -77,7 +77,7 @@
   "Kicked by admin.": "Vom Admin herausgeworfen.", 
   "List commands or get help for one command": "Befehle auflisten oder Hilfe für einen Befehl erhalten", 
   "Local chat %s": "Lokaler Chat %s", 
-  "Locked Chest": "Abgeschlossene Truhe", 
+  "Locked Chest": "Versperrte Truhe", 
   "Login failed! CustAuth login currently not allowed.": "Login fehlgeschlagen! CustAuth Login aktuell nicht erlaubt.", 
   "Login failed! Password missmatch.": "Login fehlgeschlagen! Passwörter stimmen nicht überein.", 
   "Login failed! Player already in server.": "Login fehlgeschlagen! Spieler bereits im Server.", 
